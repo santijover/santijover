@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Santiago Jover
+
+![florian-olivo-4hbJ-eymZ1o-unsplash](https://user-images.githubusercontent.com/117692198/209487692-b658d7cd-5b77-48b6-8a9e-dfe02061723a.jpg)
+
 
 <!--
 **santijover/santijover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
